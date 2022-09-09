@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pombo Correio</string>
+    <string name="dummy_ip">0.0.0.0</string>
+    <string name="endereco_ip">Endereço IP</string>
+    <string name="status">Status</string>
+    <string name="enter_message">Mensagem</string>
+</resources>
