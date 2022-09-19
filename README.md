@@ -1,1 +1,1 @@
-Sistema Distribuido
+Disciplina Sistema Distribuido
